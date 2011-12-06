@@ -1,0 +1,25 @@
+{
+   "name":"extenze",
+   "description":"mixin microlib",
+   "version":"0.0.1",
+   "homepage":"http://github.com/wearefractal/extenze",
+   "repository":"git://github.com/wearefractal/extenze",
+   "author":"Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
+    "main":"./extenze.coffee",
+
+   "engines":{
+      "node":">= 0.4.0"
+   },
+    
+   "devDependencies":{
+      "should":"*"
+   },
+
+   "licenses":[
+      {
+         "type":"MIT",
+         "url":"http://github.com/wearefractal/extenze/raw/master/LICENSE"
+      }
+   ]
+}
+
