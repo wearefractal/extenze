@@ -1,3 +1,4 @@
+require('coffee-script');
 extend  = require './services/extend'
 include = require './services/include'
 
